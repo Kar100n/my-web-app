@@ -1,0 +1,15 @@
+{
+  "name": "my-web-app",
+  "version": "1.0.0",
+  "description": "Simple Web App with Frontend and Backend",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
